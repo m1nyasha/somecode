@@ -1,0 +1,15 @@
+{
+  "name": "somecode/somecode",
+  "autoload": {
+    "psr-4": {
+      "Somecode\\Somecode\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mikhail Protasevich",
+      "email": "m1nyasha@yandex.ru"
+    }
+  ],
+  "require": {}
+}
